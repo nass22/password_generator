@@ -1,2 +1,4 @@
-# password_generator
+## Password Generator
+
+Creating a random password from a string
  
